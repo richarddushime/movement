@@ -174,8 +174,8 @@ This is automatically updated via GitHub Actions and should not be modified.
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/HARSHDIPSAHA">
-                    <img src="https://avatars.githubusercontent.com/u/141698575?v=4" width="100;" alt="HARSHDIPSAHA"/>
+                <a href="https://github.com/HarshdipSaha">
+                    <img src="https://avatars.githubusercontent.com/u/141698575?v=4" width="100;" alt="HarshdipSaha"/>
                     <br />
                     <sub><b>Harshdip Saha</b></sub>
                 </a>
